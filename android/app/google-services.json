@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "367086669000",
+    "project_id": "fir-riverpod-d50be",
+    "storage_bucket": "fir-riverpod-d50be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367086669000:android:0956d92e6725492bc129fd",
+        "android_client_info": {
+          "package_name": "com.example.task_manager_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367086669000-ba342mad4th4be7jscnegl49tvnp080p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_manager_app",
+            "certificate_hash": "992bf7b4b1e825482466c16e7c257c4a9849639c"
+          }
+        },
+        {
+          "client_id": "367086669000-utpvt5bh8sc0a9a9h2gct8op1k4opd72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKYf5lVWJWZ7XATmS5QgyIThrevDvdN3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367086669000-utpvt5bh8sc0a9a9h2gct8op1k4opd72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367086669000-j41nqaq7itk77cmfc6bgbptdmentmcqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testProjectAthentication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367086669000:android:44191cf85b02834ac129fd",
+        "android_client_info": {
+          "package_name": "com.example.test_project_athentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367086669000-u56tpm6vnc3pjulumr1aqvnhvgha61te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_project_athentication",
+            "certificate_hash": "992bf7b4b1e825482466c16e7c257c4a9849639c"
+          }
+        },
+        {
+          "client_id": "367086669000-utpvt5bh8sc0a9a9h2gct8op1k4opd72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKYf5lVWJWZ7XATmS5QgyIThrevDvdN3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367086669000-utpvt5bh8sc0a9a9h2gct8op1k4opd72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367086669000-j41nqaq7itk77cmfc6bgbptdmentmcqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testProjectAthentication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367086669000:android:91a4a2c208e3c21ec129fd",
+        "android_client_info": {
+          "package_name": "com.firstlogic.demoriverpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367086669000-a0nvplkjaea2jb1go7qdk1vm7jfpfr7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogic.demoriverpod",
+            "certificate_hash": "992bf7b4b1e825482466c16e7c257c4a9849639c"
+          }
+        },
+        {
+          "client_id": "367086669000-utpvt5bh8sc0a9a9h2gct8op1k4opd72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKYf5lVWJWZ7XATmS5QgyIThrevDvdN3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367086669000-utpvt5bh8sc0a9a9h2gct8op1k4opd72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367086669000-j41nqaq7itk77cmfc6bgbptdmentmcqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testProjectAthentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

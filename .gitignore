@@ -47,6 +47,8 @@ app.*.map.json
 # Firebase configuration
 lib/firebase_options.dart
 
+
+
 firebase.json
 
 # Android Firebase configuration
